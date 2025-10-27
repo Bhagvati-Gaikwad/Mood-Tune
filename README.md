@@ -2,6 +2,8 @@
 
 A beautiful Vue 3 web application that recommends music based on your current mood, powered by Spotify and CodeWords backend.
 
+## Live at https://68fde18c366de6ba0a09f016--stunning-gumption-b0d6fd.netlify.app/
+
 ## ✨ Features
 
 - 🎭 **7 Mood Options**: Happy, Sad, Calm, Energetic, Party, Romantic, Focused
