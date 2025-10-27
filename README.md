@@ -175,6 +175,13 @@ Response:
   }
 ```
 
+## Expected Output
+<img width="2880" height="1198" alt="Screenshot 2025-10-27 143756" src="https://github.com/user-attachments/assets/b076ad55-c999-44b7-bca2-9edf589163eb" />
+<img width="2878" height="1465" alt="Screenshot 2025-10-27 143736" src="https://github.com/user-attachments/assets/91632e72-d53f-4a57-accf-3fc9c0fe9d91" />
+<img width="2880" height="1462" alt="Screenshot 2025-10-27 143707" src="https://github.com/user-attachments/assets/2297be30-65a1-4a16-bacb-941f1ce39d69" />
+<img width="2849" height="1276" alt="Screenshot 2025-10-27 143646" src="https://github.com/user-attachments/assets/cc3238d1-32b6-4848-b205-b0c115073113" />
+
+
 ## 📝 License
 
 MIT
